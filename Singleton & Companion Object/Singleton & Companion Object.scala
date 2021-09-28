@@ -20,7 +20,7 @@ object  NextDemo {
     println("GoodBye, Ahmed!")
   }
 }
-
+// companion class
 class Demo{
   def welcome(): Unit ={
     println("Welcome, Ahmed!")
